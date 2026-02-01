@@ -6,6 +6,7 @@ Crystal](https://img.shields.io/badge/built%20with-crystal-000000.svg)](https://
 [![Build
 Status](https://travis-ci.org/jtomschroeder/crystalline.svg)](https://travis-ci.org/jtomschroeder/crystalline)
 [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://en.wikipedia.org/wiki/MIT_License)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystalline-17870c88.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystalline-17870c88?ref=badge_shield)
 
 Collection of Containers and Algorithms.
 
@@ -43,3 +44,7 @@ dependencies:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystalline-17870c88.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystalline-17870c88?ref=badge_large)
